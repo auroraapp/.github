@@ -5,6 +5,6 @@ Hello! And welcome to the official GitHub account for aurora. Here you can find 
 - 🖥️ We are building a new generation gaming center management software
 - 🧑‍🤝‍🧑 We welcome ideas and creativity.
 
-Your support helps us. 💖
+Yes the name is in lowercase! Your support helps us. 💖
 
 [https://auroraapp.xyz](https://auroraapp.xyz)
